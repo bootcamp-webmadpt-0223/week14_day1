@@ -1,0 +1,12 @@
+.task {
+  padding: 10px;
+  background-color: white;
+  border-radius: 5px;
+  color: black;
+  margin-bottom: 10px;
+}
+
+.task-name {
+  font-weight: bold;
+  font-size: 24px;
+}
